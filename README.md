@@ -5,9 +5,9 @@ Explanation how to get it running
 Installation of the alpha is limited to new cli projects at this time and intended primarily for testing. If you have any questions or run into issues, please reach out to our Discord community.
 
 #vue-cli
-In order for the installation to proceed correctly, vue-cli 4.0 is required. Further instructions are available at vue-cli.
+In order for the installation to proceed correctly, vue-cli 5.4-beta is required. Further instructions are available at vue-cli.
 
-Once installed, generate a project with the following command using the vue-cli 4.0:
+Once installed, generate a project with the following command using the vue-cli 5.4-beta:
 
 vue create my-app
 When prompted, choose Vue 3 Preview:
@@ -30,4 +30,6 @@ Once prompted, choose v3 (alpha):
   Prototype (rapid development)
 > V3 (alpha)
   Configure (advanced)
-#Vite
+
+npm install sass-1.33 
+
