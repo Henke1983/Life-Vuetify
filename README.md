@@ -31,5 +31,5 @@ Once prompted, choose v3 (alpha):
 > V3 (alpha)
   Configure (advanced)
 
-npm install sass-1.33 
+npm install sass@1.33 
 
